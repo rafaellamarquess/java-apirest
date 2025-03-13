@@ -6,5 +6,5 @@ import restiapi.restapiproj.domain.model.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
-//    boolean existsByAccountNumber(String number);
+    boolean existsByAccountNumber(String number);
 }
