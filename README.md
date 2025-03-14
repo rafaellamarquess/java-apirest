@@ -1,4 +1,4 @@
-### Java RESTful API criada para a Decola Tech.
+### Java RESTful API criada para a Decola Tech da DIO.
 
 ### Principais Tecnologias
  - **Java 23**;
